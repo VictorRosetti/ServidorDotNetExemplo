@@ -1,0 +1,14 @@
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\TodoApi.exe
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\appsettings.Development.json
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\appsettings.json
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\TodoApi.dll
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\TodoApi.deps.json
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\TodoApi.runtimeconfig.json
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\TodoApi.pdb
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\Microsoft.EntityFrameworkCore.dll
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\Microsoft.OpenApi.dll
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub_Repos\ServidorDotNetExemplo\TodoApi\bin\Publish\Swashbuckle.AspNetCore.SwaggerUI.dll
